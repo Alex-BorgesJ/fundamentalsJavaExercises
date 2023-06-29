@@ -1,0 +1,8 @@
+a. "Bom dia", é uma variavel de tipo String. 
+b. 3 é uma variavel que pode ser do tipo: byte, short ou int.
+c. 235.13 é uma variavel que pode ser do tipo: double ou Double.
+d. true é uma variavel do tipo boolean.
+e. -135 é uma variavel que pode ser do tipo: short ou int.
+f. 256.23F é uma variavel do tipo float.
+g. 'A' é uma variavel do tipo char.
+h. 6463275245745L é uma variavel do tipo long.
